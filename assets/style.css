@@ -5,7 +5,7 @@ body
   margin-top: 0px;
   margin-right: 0px;
   margin-bottom: 0px;
-  margin-left: 0px
+  margin-left: 0px;
 }
 
 p
@@ -38,3 +38,14 @@ h4
   float: center;
   width: 100%;
 }
+
+a{
+  font-family: 'calibri', sans-serif;
+  text-decoration: none;
+  color: white;
+}
+a:hover
+{
+  color: cyan;
+}
+
