@@ -1,0 +1,40 @@
+body
+{
+  background-color: black;
+  font-family: 'calibri', sans-serif;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px
+}
+
+p
+{
+  color: white;
+  font-family: 'calibri', sans-serif;
+}
+
+h2
+{
+  color: white;
+  font-family: 'calibri', sans-serif;
+}
+
+h3
+{
+  color: white;
+  font-family: 'calibri', sans-serif;
+}
+
+h4
+{
+  color: white;
+  font-family: 'calibri', sans-serif;
+}
+
+.wrapper
+{
+  text-align: center;
+  float: center;
+  width: 100%;
+}
